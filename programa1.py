@@ -1,16 +1,14 @@
 import streamlit as st
-# Material de contenido
-  * Simulaciones 
 # Columnas con imagenes
 import streamlit as st
 
 col1, col2, col3 = st.columns(3)
 
-with col2:
+with col1:
     st.header("A cat")
     st.image("https://static.streamlit.io/examples/cat.jpg")
 
-with col1:
+with col2:
     st.header("A dog")
     st.image("https://static.streamlit.io/examples/dog.jpg")
 
