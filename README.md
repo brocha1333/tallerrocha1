@@ -8,5 +8,6 @@ Este repositorio tiene los archivos de:
 
   Repositorio creado por Dr. Beatriz Rocha Gutierrez
   Universidad Autonoma de Chihuahua
-    Este taller debe tomarse a partir de 6to semestre
+    * Este taller debe tomarse a partir de 6to semestre
+      
   
